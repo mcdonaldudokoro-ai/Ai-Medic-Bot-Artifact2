@@ -42,8 +42,8 @@ This artifact also serves as evidence of competency in applied machine learning,
 ### Tools and Technologies Used  
 - Python  
 - Streamlit (user interface)  
-- Google Gemini Embedding Model (`text-embedding-004`)  
-- Gemini LLM (`gemini-2.5-flash`)  
+- Google Gemini Embedding Model (text-embedding-004)  
+- Gemini LLM (gemini-2.5-flash)  
 - Pandas, NumPy (data processing)  
 - PyPDF + JSON parsing  
 - Local vector database prototype  
