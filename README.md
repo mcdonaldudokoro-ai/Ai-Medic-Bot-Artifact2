@@ -69,6 +69,5 @@ Jiang, F. et al. (2024) ‘Artificial intelligence in healthcare: Past, present 
 Topol, E. (2019) *Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again.* Basic Books.  
 U.S. Department of Health and Human Services (2022) *Guidance on HIPAA and Machine-Based Clinical Tools.*
 
----
 
-*End of Artifact 1 — this repository is submitted as part of a graduate-level digital portfolio for academic evaluation and professional review.*
+
