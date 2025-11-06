@@ -64,10 +64,10 @@ It supports expert users by condensing relevant data, rather than attempting to 
 - **Portfolio Requirement** – Fully satisfies artifact structure and documentation requirements for graduate-level portfolio evaluation.
 
 ### References  
-Braun, L. & Clarke, V. (2023) *Clinical Decision Support Systems: Frameworks and Applications.* Elsevier Health.  
-Jiang, F. et al. (2024) ‘Artificial intelligence in healthcare: Past, present and future’, *Journal of Medical Systems*, 48(2).  
-Topol, E. (2019) *Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again.* Basic Books.  
-U.S. Department of Health and Human Services (2022) *Guidance on HIPAA and Machine-Based Clinical Tools.*
+Braun, L., & Clarke, V. (2023). Clinical decision support systems: Frameworks and applications. Elsevier Health.
 
+Jiang, F., Dong, Y., Wang, Y., Cai, W., & Zhang, X. (2024). Artificial intelligence in healthcare: Past, present and future. Journal of Medical Systems, 48(2). 
 
+Topol, E. (2019). Deep medicine: How artificial intelligence can make healthcare human again.
 
+U.S. Department of Health and Human Services. (2022). Guidance on HIPAA and machine-based clinical tools. https://www.hhs.gov/
